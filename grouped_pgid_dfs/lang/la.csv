@@ -1,0 +1,36 @@
+,id,title,author,authoryearofbirth,authoryearofdeath,language,downloads,subjects,type,tag
+1104,PG22119,The Satires of A. Persius Flaccus,Persius,,,['la'],167,"'Rome -- Poetry', 'Verse satire, Latin'",Text,'Rome -- Poetry'
+1192,PG227,Aeneidos,Virgil,-70.0,-19.0,['la'],1199,"'Aeneas (Legendary character) -- Poetry', 'Epic poetry, Latin', 'Legends -- Rome -- Poetry'",Text,'Aeneas (Legendary character) -- Poetry'
+1193,PG227,Aeneidos,Virgil,-70.0,-19.0,['la'],1199,"'Aeneas (Legendary character) -- Poetry', 'Epic poetry, Latin', 'Legends -- Rome -- Poetry'",Text,'Epic poetry
+1194,PG227,Aeneidos,Virgil,-70.0,-19.0,['la'],1199,"'Aeneas (Legendary character) -- Poetry', 'Epic poetry, Latin', 'Legends -- Rome -- Poetry'",Text,'Legends -- Rome -- Poetry'
+1218,PG229,The Bucolics and Eclogues,Virgil,-70.0,-19.0,['la'],152,"'Pastoral poetry, Latin', 'Country life -- Rome -- Poetry'",Text,'Pastoral poetry
+1219,PG229,The Bucolics and Eclogues,Virgil,-70.0,-19.0,['la'],152,"'Pastoral poetry, Latin', 'Country life -- Rome -- Poetry'",Text,'Country life -- Rome -- Poetry'
+1235,PG231,Georgicon,Virgil,-70.0,-19.0,['la'],236,"'Agriculture -- Poetry', 'Didactic poetry, Latin'",Text,'Agriculture -- Poetry'
+1236,PG231,Georgicon,Virgil,-70.0,-19.0,['la'],236,"'Agriculture -- Poetry', 'Didactic poetry, Latin'",Text,'Didactic poetry
+1242,PG23294,Catulli Carmina,"Catullus, Gaius Valerius",-84.0,-53.0,['la'],149,'Poetry',Text,'Poetry'
+1322,PG237,Sexti Properti Elegiarvm: Liber Primvs,"Propertius, Sextus",,,['la'],83,"'Rome -- Poetry', 'Love poetry, Latin', 'Elegiac poetry, Latin', 'Latin poetry', 'Man-woman relationships -- Poetry'",Text,'Rome -- Poetry'
+1323,PG237,Sexti Properti Elegiarvm: Liber Primvs,"Propertius, Sextus",,,['la'],83,"'Rome -- Poetry', 'Love poetry, Latin', 'Elegiac poetry, Latin', 'Latin poetry', 'Man-woman relationships -- Poetry'",Text,'Love poetry
+1324,PG237,Sexti Properti Elegiarvm: Liber Primvs,"Propertius, Sextus",,,['la'],83,"'Rome -- Poetry', 'Love poetry, Latin', 'Elegiac poetry, Latin', 'Latin poetry', 'Man-woman relationships -- Poetry'",Text,'Elegiac poetry
+1325,PG237,Sexti Properti Elegiarvm: Liber Primvs,"Propertius, Sextus",,,['la'],83,"'Rome -- Poetry', 'Love poetry, Latin', 'Elegiac poetry, Latin', 'Latin poetry', 'Man-woman relationships -- Poetry'",Text,'Latin poetry'
+1326,PG237,Sexti Properti Elegiarvm: Liber Primvs,"Propertius, Sextus",,,['la'],83,"'Rome -- Poetry', 'Love poetry, Latin', 'Elegiac poetry, Latin', 'Latin poetry', 'Man-woman relationships -- Poetry'",Text,'Man-woman relationships -- Poetry'
+1715,PG27219,Punicorum Libri Septemdecim,"Silius Italicus, Tiberius Catius",,,['la'],41,"'Punic War, 2nd, 218-201 B.C. -- Poetry'",Text,218-201 B.C. -- Poetry'
+1765,PG27672,Punicorum Libri Septemdecim,"Silius Italicus, Tiberius Catius",,,['la'],50,"'Punic War, 2nd, 218-201 B.C. -- Poetry'",Text,218-201 B.C. -- Poetry'
+3026,PG46938,"The Works of Horace, with English Notes: Twentieth Edition",Horace,-65.0,-8.0,['la'],177,'Latin language -- Readers -- Poetry',Text,'Latin language -- Readers -- Poetry'
+3391,PG52691,Homeri Carmina et Cycli Epici Reliquiæ. Pars Tertia: Hymni,Homer,-750.0,-650.0,['la'],28,"'Hymns, Greek (Classical) -- Translations into Latin', 'Gods, Greek -- Poetry'",Text,Greek -- Poetry'
+3392,PG52692,Homeri Carmina et Cycli Epici Reliquiæ. Pars Prima: Ilias,Homer,-750.0,-650.0,['la'],140,"'Epic poetry, Greek -- Translations into Latin', 'Achilles (Mythological character) -- Poetry', 'Trojan War -- Poetry'",Text,'Epic poetry
+3393,PG52692,Homeri Carmina et Cycli Epici Reliquiæ. Pars Prima: Ilias,Homer,-750.0,-650.0,['la'],140,"'Epic poetry, Greek -- Translations into Latin', 'Achilles (Mythological character) -- Poetry', 'Trojan War -- Poetry'",Text,'Achilles (Mythological character) -- Poetry'
+3394,PG52692,Homeri Carmina et Cycli Epici Reliquiæ. Pars Prima: Ilias,Homer,-750.0,-650.0,['la'],140,"'Epic poetry, Greek -- Translations into Latin', 'Achilles (Mythological character) -- Poetry', 'Trojan War -- Poetry'",Text,'Trojan War -- Poetry'
+3395,PG52693,Homeri Carmina et Cycli Epici Reliquiæ. Pars Secunda: Odyssea,Homer,-750.0,-650.0,['la'],61,"'Epic poetry, Greek -- Translations into Latin', 'Odysseus, King of Ithaca (Mythological character) -- Poetry'",Text,'Epic poetry
+3396,PG52693,Homeri Carmina et Cycli Epici Reliquiæ. Pars Secunda: Odyssea,Homer,-750.0,-650.0,['la'],61,"'Epic poetry, Greek -- Translations into Latin', 'Odysseus, King of Ithaca (Mythological character) -- Poetry'",Text,King of Ithaca (Mythological character) -- Poetry'
+3480,PG53315,Hesiodi Carmina,Hesiod,,,['la'],61,"'Didactic poetry, Greek -- Translations into Latin', 'Hesiod -- Translations into Latin', 'Gods, Greek -- Poetry', 'Heracles (Greek mythological character) -- Poetry', 'Agriculture -- Greece -- Poetry', 'Religious poetry, Greek -- Translations into Latin'",Text,'Didactic poetry
+3481,PG53315,Hesiodi Carmina,Hesiod,,,['la'],61,"'Didactic poetry, Greek -- Translations into Latin', 'Hesiod -- Translations into Latin', 'Gods, Greek -- Poetry', 'Heracles (Greek mythological character) -- Poetry', 'Agriculture -- Greece -- Poetry', 'Religious poetry, Greek -- Translations into Latin'",Text,Greek -- Poetry'
+3482,PG53315,Hesiodi Carmina,Hesiod,,,['la'],61,"'Didactic poetry, Greek -- Translations into Latin', 'Hesiod -- Translations into Latin', 'Gods, Greek -- Poetry', 'Heracles (Greek mythological character) -- Poetry', 'Agriculture -- Greece -- Poetry', 'Religious poetry, Greek -- Translations into Latin'",Text,'Heracles (Greek mythological character) -- Poetry'
+3483,PG53315,Hesiodi Carmina,Hesiod,,,['la'],61,"'Didactic poetry, Greek -- Translations into Latin', 'Hesiod -- Translations into Latin', 'Gods, Greek -- Poetry', 'Heracles (Greek mythological character) -- Poetry', 'Agriculture -- Greece -- Poetry', 'Religious poetry, Greek -- Translations into Latin'",Text,'Agriculture -- Greece -- Poetry'
+3484,PG53315,Hesiodi Carmina,Hesiod,,,['la'],61,"'Didactic poetry, Greek -- Translations into Latin', 'Hesiod -- Translations into Latin', 'Gods, Greek -- Poetry', 'Heracles (Greek mythological character) -- Poetry', 'Agriculture -- Greece -- Poetry', 'Religious poetry, Greek -- Translations into Latin'",Text,'Religious poetry
+3526,PG53944,"Erotopægnion, sive Priapeia Veterum et Recentiorum",,,,['la'],43,"'Erotic poetry, Latin'",Text,'Erotic poetry
+4596,PG70569,Pvcna porcorvm,"Placentius, Jean-Leo",,,['la'],26,'Latin poetry -- Early works to 1800',Text,'Latin poetry -- Early works to 1800'
+4841,PG8738,Fasti,Ovid,-43.0,17.0,['la'],143,"'Calendar -- Poetry', 'Didactic poetry, Latin', 'Fasts and feasts -- Poetry'",Text,'Calendar -- Poetry'
+4842,PG8738,Fasti,Ovid,-43.0,17.0,['la'],143,"'Calendar -- Poetry', 'Didactic poetry, Latin', 'Fasts and feasts -- Poetry'",Text,'Didactic poetry
+4843,PG8738,Fasti,Ovid,-43.0,17.0,['la'],143,"'Calendar -- Poetry', 'Didactic poetry, Latin', 'Fasts and feasts -- Poetry'",Text,'Fasts and feasts -- Poetry'
+5001,PG9646,Horace: Odes and Epodes,Horace,-65.0,-8.0,['la'],64,"'Laudatory poetry, Latin', 'Rome -- Poetry', 'Verse satire, Latin'",Text,'Laudatory poetry
+5002,PG9646,Horace: Odes and Epodes,Horace,-65.0,-8.0,['la'],64,"'Laudatory poetry, Latin', 'Rome -- Poetry', 'Verse satire, Latin'",Text,'Rome -- Poetry'

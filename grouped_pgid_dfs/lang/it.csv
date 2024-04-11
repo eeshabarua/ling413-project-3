@@ -1,0 +1,80 @@
+,id,title,author,authoryearofbirth,authoryearofdeath,language,downloads,subjects,type,tag
+0,PG1000,La Divina Commedia di Dante: Complete,Dante Alighieri,1265.0,1321.0,['it'],788,"'Epic poetry, Italian', 'Italian poetry -- To 1400'",Text,'Epic poetry
+1,PG1000,La Divina Commedia di Dante: Complete,Dante Alighieri,1265.0,1321.0,['it'],788,"'Epic poetry, Italian', 'Italian poetry -- To 1400'",Text,'Italian poetry -- To 1400'
+24,PG1009,La Divina Commedia di Dante: Inferno,Dante Alighieri,1265.0,1321.0,['it'],87,"'Epic poetry, Italian', 'Hell -- Poetry', 'Italian poetry -- To 1400'",Text,'Epic poetry
+25,PG1009,La Divina Commedia di Dante: Inferno,Dante Alighieri,1265.0,1321.0,['it'],87,"'Epic poetry, Italian', 'Hell -- Poetry', 'Italian poetry -- To 1400'",Text,'Hell -- Poetry'
+26,PG1009,La Divina Commedia di Dante: Inferno,Dante Alighieri,1265.0,1321.0,['it'],87,"'Epic poetry, Italian', 'Hell -- Poetry', 'Italian poetry -- To 1400'",Text,'Italian poetry -- To 1400'
+27,PG1010,La Divina Commedia di Dante: Purgatorio,Dante Alighieri,1265.0,1321.0,['it'],54,"'Epic poetry, Italian', 'Hell -- Poetry', 'Italian poetry -- To 1400'",Text,'Epic poetry
+28,PG1010,La Divina Commedia di Dante: Purgatorio,Dante Alighieri,1265.0,1321.0,['it'],54,"'Epic poetry, Italian', 'Hell -- Poetry', 'Italian poetry -- To 1400'",Text,'Hell -- Poetry'
+29,PG1010,La Divina Commedia di Dante: Purgatorio,Dante Alighieri,1265.0,1321.0,['it'],54,"'Epic poetry, Italian', 'Hell -- Poetry', 'Italian poetry -- To 1400'",Text,'Italian poetry -- To 1400'
+31,PG1011,La Divina Commedia di Dante: Paradiso,Dante Alighieri,1265.0,1321.0,['it'],137,"'Epic poetry, Italian', 'Italian poetry -- To 1400'",Text,'Epic poetry
+32,PG1011,La Divina Commedia di Dante: Paradiso,Dante Alighieri,1265.0,1321.0,['it'],137,"'Epic poetry, Italian', 'Italian poetry -- To 1400'",Text,'Italian poetry -- To 1400'
+35,PG1012,La Divina Commedia di Dante,Dante Alighieri,1265.0,1321.0,['it'],558,"'Epic poetry, Italian', 'Italian poetry -- To 1400'",Text,'Epic poetry
+36,PG1012,La Divina Commedia di Dante,Dante Alighieri,1265.0,1321.0,['it'],558,"'Epic poetry, Italian', 'Italian poetry -- To 1400'",Text,'Italian poetry -- To 1400'
+457,PG15136,Amedeide: Poema eroico,"Chiabrera, Gabriello",1552.0,1638.0,['it'],21,'Poetry',Text,'Poetry'
+678,PG17671,Poesie scelte,"Pellico, Silvio",1789.0,1854.0,['it'],33,'Poetry',Text,'Poetry'
+679,PG17687,Il libro delle figurazioni ideali,"Lucini, Gian Pietro",1867.0,1914.0,['it'],23,'Poetry',Text,'Poetry'
+696,PG17838,L'aeroplano del papa: Romanzo profetico in versi liberi,"Marinetti, F. T.",1876.0,1944.0,['it'],48,'Poetry',Text,'Poetry'
+697,PG17847,Rime di Argia Sbolenfi: con prefazione di Lorenzo Stecchetti,"Guerrini, Olindo",1845.0,1916.0,['it'],27,'Poetry',Text,'Poetry'
+702,PG17905,Vecchie cadenze e nuove,"De Marchi, Emilio",1851.0,1901.0,['it'],23,'Poetry',Text,'Poetry'
+703,PG17906,Libro proibito,"Ghislanzoni, Antonio",1824.0,1893.0,['it'],57,"'Italian wit and humor', 'Humorous poetry'",Text,'Humorous poetry'
+813,PG19428,Le nostalgie,"Gualdo, Luigi",1847.0,1898.0,['it'],26,'Poetry',Text,'Poetry'
+814,PG19429,Poesie inedite vol. I,"Pellico, Silvio",1789.0,1854.0,['it'],17,'Poetry',Text,'Poetry'
+839,PG19558,Poesie inedite vol. II,"Pellico, Silvio",1789.0,1854.0,['it'],22,'Poetry',Text,'Poetry'
+876,PG19886,Fiore di leggende: Cantari antichi I - cantari leggendari,,,,['it'],51,'Italian poetry',Text,'Italian poetry'
+877,PG19894,In gondoleta: Barcarole e Rime Veneziane,"Negri, Antonio",,,['it'],24,'Poetry',Text,'Poetry'
+1172,PG22641,Lucifero,"Rapisardi, Mario",1844.0,1912.0,['it'],39,'Poetry',Text,'Poetry'
+1502,PG25210,Distruzione: Poema Futurista,"Marinetti, F. T.",1876.0,1944.0,['it'],47,'Poetry',Text,'Poetry'
+1732,PG27334,Africa Orrenda,"Rapisardi, Mario",1844.0,1912.0,['it'],24,'Italy -- Colonies -- Africa -- Poetry',Text,'Italy -- Colonies -- Africa -- Poetry'
+1748,PG27433,Il Quadriregio,"Frezzi, Federico",,1416.0,['it'],19,'Poetry',Text,'Poetry'
+1778,PG27825,Isaotta Guttadàuro ed altre poesie,"D'Annunzio, Gabriele",1863.0,1938.0,['it'],48,'Poetry',Text,'Poetry'
+1901,PG29977,Le Laude: secondo la stampa fiorentina del 1490,"Jacopone, da Todi",1230.0,1306.0,['it'],70,'Poetry',Text,'Poetry'
+1965,PG30738,"Opera nova amorosa, vol. 1: Strambotti, sonetti, capitoli, epistole et una disperata","Notturno, Napolitano",,,['it'],25,'Italian poetry -- 16th century',Text,'Italian poetry -- 16th century'
+1987,PG31285,"Opera nova amorosa, vol. 2: Traggedia","Notturno, Napolitano",,,['it'],22,"'Drama', 'Poetry'",Text,'Poetry'
+2042,PG31818,"Opera nova amorosa, vol. 3: Comedia nova","Notturno, Napolitano",,,['it'],21,"'Drama', 'Poetry'",Text,'Poetry'
+2206,PG33982,Le maccheronee: Zanitonella - Baldus - Moscheide - Epigrammata,"Folengo, Teofilo",1496.0,1544.0,['it'],35,'Macaronic poetry',Text,'Macaronic poetry'
+2243,PG34734,Sonetti,"Pascarella, Cesare",1858.0,1940.0,['it'],23,"'Sonnets, Italian', 'Italian poetry'",Text,'Italian poetry'
+2325,PG35802,Lusitania: Canti popolari portoghesi,,,,['it'],16,"'Ballads, Portuguese -- Texts', 'Portuguese poetry -- Translations into Italian', 'Folk songs, Portuguese -- Texts'",Text,'Portuguese poetry -- Translations into Italian'
+2342,PG36060,Dal profondo,"Negri, Ada",1870.0,1945.0,['it'],34,'Italian poetry',Text,'Italian poetry'
+2343,PG36061,Maternità,"Negri, Ada",1870.0,1945.0,['it'],49,'Italian poetry',Text,'Italian poetry'
+2344,PG36063,Tempeste,"Negri, Ada",1870.0,1945.0,['it'],37,'Italian poetry',Text,'Italian poetry'
+2360,PG36239,Fatalità,"Negri, Ada",1870.0,1945.0,['it'],43,'Italian poetry',Text,'Italian poetry'
+2393,PG36792,Esilio,"Negri, Ada",1870.0,1945.0,['it'],30,'Italian poetry',Text,'Italian poetry'
+2562,PG39239,Rimatori siculo-toscani del dugento. Serie prima - Pistoiesi-Lucchesi-Pisani,,,,['it'],26,"'Italian literature -- Italy -- Tuscany', 'Italian poetry -- To 1400', 'Italian literature -- Collections'",Text,'Italian poetry -- To 1400'
+2628,PG40328,Ahasvero nell'Isola del Diavolo: versi: preceduti da uno studio su l'Ebraismo e la rivoluzione francese,"Levi, David",1816.0,1898.0,['it'],24,"'Poetry', 'Jews -- France'",Text,'Poetry'
+3206,PG49733,Teste quadre,"Panzacchi, Enrico",1840.0,1904.0,['it'],21,"'Italian literature -- 19th century -- History and criticism', 'Italian poetry -- 19th century -- History and criticism'",Text,'Italian poetry -- 19th century -- History and criticism'
+3225,PG49963,I Paralipomeni del Lucifero di Mario Rapisardi,"Capuana, Luigi",1839.0,1915.0,['it'],19,'Italian poetry',Text,'Italian poetry'
+3232,PG50306,Rinaldo ardito: Frammenti inediti pubblicati sul manoscritto originale,"Ariosto, Lodovico",1474.0,1533.0,['it'],22,'Italian poetry',Text,'Italian poetry'
+3275,PG51036,Homo,"Cena, Giovanni",1870.0,1917.0,['it'],26,'Italian poetry -- 20th century',Text,'Italian poetry -- 20th century'
+3469,PG53208,Momenti: Liriche,"Aleramo, Sibilla",1876.0,1960.0,['it'],45,'Italian poetry -- 20th century',Text,'Italian poetry -- 20th century'
+3477,PG53287,L'Incendiario; col rapporto sulla vittoria futurista di Trieste,"Palazzeschi, Aldo",1885.0,1974.0,['it'],29,"'Futurism (Literary movement) -- Italy', 'Italian poetry -- 20th century'",Text,'Italian poetry -- 20th century'
+3615,PG55236,I Canti,"Leopardi, Giacomo",1798.0,1837.0,['it'],128,'Italian poetry',Text,'Italian poetry'
+3747,PG57565,"Le tragedie, gl'inni sacri e le odi di Alessandro Manzoni","Manzoni, Alessandro",1785.0,1873.0,['it'],72,"'Italian drama', 'Italian poetry'",Text,'Italian poetry'
+3753,PG57787,Orlando innamorato,"Boiardo, Matteo Maria",1440.0,1494.0,['it'],48,"'Epic poetry, Italian'",Text,'Epic poetry
+3760,PG57951,Lanterna,"Palazzeschi, Aldo",1885.0,1974.0,['it'],23,'Italian poetry -- 20th century',Text,'Italian poetry -- 20th century'
+3789,PG58615,Lirica,"Vivanti, Annie",1866.0,1942.0,['it'],37,'Italian poetry',Text,'Italian poetry'
+3792,PG58648,Elegìe Romane,"D'Annunzio, Gabriele",1863.0,1938.0,['it'],39,"'Elegiac poetry, Italian'",Text,'Elegiac poetry
+3840,PG59568,"Il Ricciardetto, vol. I","Forteguerri, Niccolò",1674.0,1735.0,['it'],35,'Italian poetry -- 18th century',Text,'Italian poetry -- 18th century'
+3841,PG59569,"Il Ricciardetto, vol. II","Forteguerri, Niccolò",1674.0,1735.0,['it'],26,'Italian poetry -- 18th century',Text,'Italian poetry -- 18th century'
+3867,PG59903,Nuovi versi,"Betteloni, Vittorio",1840.0,1910.0,['it'],30,'Italian poetry -- 19th century',Text,'Italian poetry -- 19th century'
+3871,PG59942,"Virgilio nel Medio Evo, vol. I","Comparetti, Domenico",1835.0,1927.0,['it'],37,"'Didactic poetry, Latin -- History and criticism', 'Rome -- In literature', 'Pastoral poetry, Latin -- History and criticism', 'Literature, Medieval -- History and criticism', 'Latin poetry -- Appreciation', 'Epic poetry, Latin -- History and criticism', 'Virgil -- Criticism and interpretation -- History', 'Literature, Medieval -- Roman influences', 'Aeneas (Legendary character) -- In literature', 'Virgil -- Influence', 'Agriculture in literature'",Text,'Didactic poetry
+3872,PG59942,"Virgilio nel Medio Evo, vol. I","Comparetti, Domenico",1835.0,1927.0,['it'],37,"'Didactic poetry, Latin -- History and criticism', 'Rome -- In literature', 'Pastoral poetry, Latin -- History and criticism', 'Literature, Medieval -- History and criticism', 'Latin poetry -- Appreciation', 'Epic poetry, Latin -- History and criticism', 'Virgil -- Criticism and interpretation -- History', 'Literature, Medieval -- Roman influences', 'Aeneas (Legendary character) -- In literature', 'Virgil -- Influence', 'Agriculture in literature'",Text,'Pastoral poetry
+3873,PG59942,"Virgilio nel Medio Evo, vol. I","Comparetti, Domenico",1835.0,1927.0,['it'],37,"'Didactic poetry, Latin -- History and criticism', 'Rome -- In literature', 'Pastoral poetry, Latin -- History and criticism', 'Literature, Medieval -- History and criticism', 'Latin poetry -- Appreciation', 'Epic poetry, Latin -- History and criticism', 'Virgil -- Criticism and interpretation -- History', 'Literature, Medieval -- Roman influences', 'Aeneas (Legendary character) -- In literature', 'Virgil -- Influence', 'Agriculture in literature'",Text,'Latin poetry -- Appreciation'
+3874,PG59942,"Virgilio nel Medio Evo, vol. I","Comparetti, Domenico",1835.0,1927.0,['it'],37,"'Didactic poetry, Latin -- History and criticism', 'Rome -- In literature', 'Pastoral poetry, Latin -- History and criticism', 'Literature, Medieval -- History and criticism', 'Latin poetry -- Appreciation', 'Epic poetry, Latin -- History and criticism', 'Virgil -- Criticism and interpretation -- History', 'Literature, Medieval -- Roman influences', 'Aeneas (Legendary character) -- In literature', 'Virgil -- Influence', 'Agriculture in literature'",Text,'Epic poetry
+3875,PG59943,"Virgilio nel Medio Evo, vol. II","Comparetti, Domenico",1835.0,1927.0,['it'],90,"'Didactic poetry, Latin -- History and criticism', 'Rome -- In literature', 'Pastoral poetry, Latin -- History and criticism', 'Literature, Medieval -- History and criticism', 'Latin poetry -- Appreciation', 'Epic poetry, Latin -- History and criticism', 'Virgil -- Criticism and interpretation -- History', 'Literature, Medieval -- Roman influences', 'Aeneas (Legendary character) -- In literature', 'Virgil -- Influence', 'Agriculture in literature'",Text,'Didactic poetry
+3876,PG59943,"Virgilio nel Medio Evo, vol. II","Comparetti, Domenico",1835.0,1927.0,['it'],90,"'Didactic poetry, Latin -- History and criticism', 'Rome -- In literature', 'Pastoral poetry, Latin -- History and criticism', 'Literature, Medieval -- History and criticism', 'Latin poetry -- Appreciation', 'Epic poetry, Latin -- History and criticism', 'Virgil -- Criticism and interpretation -- History', 'Literature, Medieval -- Roman influences', 'Aeneas (Legendary character) -- In literature', 'Virgil -- Influence', 'Agriculture in literature'",Text,'Pastoral poetry
+3877,PG59943,"Virgilio nel Medio Evo, vol. II","Comparetti, Domenico",1835.0,1927.0,['it'],90,"'Didactic poetry, Latin -- History and criticism', 'Rome -- In literature', 'Pastoral poetry, Latin -- History and criticism', 'Literature, Medieval -- History and criticism', 'Latin poetry -- Appreciation', 'Epic poetry, Latin -- History and criticism', 'Virgil -- Criticism and interpretation -- History', 'Literature, Medieval -- Roman influences', 'Aeneas (Legendary character) -- In literature', 'Virgil -- Influence', 'Agriculture in literature'",Text,'Latin poetry -- Appreciation'
+3878,PG59943,"Virgilio nel Medio Evo, vol. II","Comparetti, Domenico",1835.0,1927.0,['it'],90,"'Didactic poetry, Latin -- History and criticism', 'Rome -- In literature', 'Pastoral poetry, Latin -- History and criticism', 'Literature, Medieval -- History and criticism', 'Latin poetry -- Appreciation', 'Epic poetry, Latin -- History and criticism', 'Virgil -- Criticism and interpretation -- History', 'Literature, Medieval -- Roman influences', 'Aeneas (Legendary character) -- In literature', 'Virgil -- Influence', 'Agriculture in literature'",Text,'Epic poetry
+3895,PG60127,Monotonie,"Oriani, Alfredo",1852.0,1909.0,['it'],18,'Italian poetry -- 19th century',Text,'Italian poetry -- 19th century'
+3942,PG60549,Liriche,"Montanelli, Giuseppe",1813.0,1862.0,['it'],16,'Italian poetry -- 19th century',Text,'Italian poetry -- 19th century'
+4027,PG61548,Le seduzioni - Le vergini folli,"Guglielminetti, Amalia",1881.0,1941.0,['it'],38,'Italian poetry -- 20th century',Text,'Italian poetry -- 20th century'
+4086,PG62563,Ricordanze,"Rapisardi, Mario",1844.0,1912.0,['it'],35,'Italian poetry -- 19th century',Text,'Italian poetry -- 19th century'
+4114,PG62892,I Tre Giulj: o sieno Sonetti di Niceste Abideno sopra l'Importunità di; un Creditor di Tre Giulj,"Casti, Giovanni Battista",1724.0,1803.0,['it'],23,"'Italian poetry -- 18th century', 'Sonnets, Italian'",Text,'Italian poetry -- 18th century'
+4526,PG6938,"Rime di Tullia d'Aragona, cortigiana del secolo XVI","Aragona, Tullia d'",,1556.0,['it'],26,"'Italian poetry -- 16th century', ""Aragona, Tullia d', approximately 1510-1556 -- Criticism and interpretation""",Text,'Italian poetry -- 16th century'
+5000,PG9642,Poesie e novelle in versi,"Fontana, Ferdinando",1850.0,1919.0,['it'],18,'Poetry',Text,'Poetry'
+5043,PG997,Divina Commedia di Dante: Inferno,Dante Alighieri,1265.0,1321.0,['it'],1062,"'Hell', 'Italian poetry -- To 1400', 'Epic poetry, Italian'",Text,'Italian poetry -- To 1400'
+5044,PG997,Divina Commedia di Dante: Inferno,Dante Alighieri,1265.0,1321.0,['it'],1062,"'Hell', 'Italian poetry -- To 1400', 'Epic poetry, Italian'",Text,'Epic poetry
+5048,PG998,Divina Commedia di Dante: Purgatorio,Dante Alighieri,1265.0,1321.0,['it'],106,"'Epic poetry, Italian', 'Italian poetry -- To 1400'",Text,'Epic poetry
+5049,PG998,Divina Commedia di Dante: Purgatorio,Dante Alighieri,1265.0,1321.0,['it'],106,"'Epic poetry, Italian', 'Italian poetry -- To 1400'",Text,'Italian poetry -- To 1400'
+5051,PG999,Divina Commedia di Dante: Paradiso,Dante Alighieri,1265.0,1321.0,['it'],75,"'Epic poetry, Italian', 'Italian poetry -- To 1400'",Text,'Epic poetry
+5052,PG999,Divina Commedia di Dante: Paradiso,Dante Alighieri,1265.0,1321.0,['it'],75,"'Epic poetry, Italian', 'Italian poetry -- To 1400'",Text,'Italian poetry -- To 1400'

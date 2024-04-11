@@ -1,0 +1,7 @@
+,id,title,author,authoryearofbirth,authoryearofdeath,language,downloads,subjects,type,tag
+217,PG12137,La Légende des Siècles,"Hugo, Victor",1802.0,1885.0,"['en', 'fr']",248,'French poetry -- 19th century',Text,'French poetry -- 19th century'
+380,PG14082,Le Corbeau = The Raven,"Poe, Edgar Allan",1809.0,1849.0,"['en', 'fr']",310,"'Fantasy poetry, American -- Translations into French', 'Poe, Edgar Allan, 1809-1849 -- Translations into French', 'Ravens -- Poetry'",Text,'Fantasy poetry
+381,PG14082,Le Corbeau = The Raven,"Poe, Edgar Allan",1809.0,1849.0,"['en', 'fr']",310,"'Fantasy poetry, American -- Translations into French', 'Poe, Edgar Allan, 1809-1849 -- Translations into French', 'Ravens -- Poetry'",Text,'Ravens -- Poetry'
+3575,PG54664,Mother Goose's Bicycle Tour,"Bonnell, M. A.",,,"['en', 'fr']",24,"'Nursery rhymes -- Adaptations', ""Children's poetry""",Text,"""Children's poetry"""
+4824,PG8591,French Lyrics,,,,"['en', 'fr']",213,"'Lyric poetry', 'French poetry'",Text,'Lyric poetry'
+4825,PG8591,French Lyrics,,,,"['en', 'fr']",213,"'Lyric poetry', 'French poetry'",Text,'French poetry'

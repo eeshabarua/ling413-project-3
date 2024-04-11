@@ -1,0 +1,42 @@
+,id,title,author,authoryearofbirth,authoryearofdeath,language,downloads,subjects,type,tag
+1008,PG20968,"Three Hundred Tang Poems, Volume 1",Various,,,['zh'],443,"'Chinese poetry -- Tang dynasty, 618-907'",Sound,'Chinese poetry -- Tang dynasty
+1330,PG23823,弟子規,"Li, Yuxiu, active 17th century-18th century",,,['zh'],42,"'Chinese poetry -- Qing dynasty, 1644-1912', 'Confucianism', 'Conduct of life'",Text,'Chinese poetry -- Qing dynasty
+1335,PG23873,詩經,Anonymous,,,['zh'],158,'Chinese poetry',Text,'Chinese poetry'
+1372,PG24028,東坡樂府,"Su, Shi",1037.0,1101.0,['zh'],64,"'Chinese poetry -- Song dynasty, 960-1279'",Text,'Chinese poetry -- Song dynasty
+1375,PG24041,洛神賦,"Cao, Zhi",192.0,232.0,['zh'],109,'Chinese poetry -- 220-589',Text,'Chinese poetry -- 220-589'
+1376,PG24060,李太白集,"Li, Bai",701.0,762.0,['zh'],195,"'Chinese poetry -- Tang dynasty, 618-907'",Text,'Chinese poetry -- Tang dynasty
+1381,PG24112,人間詞話,"Wang, Guowei",1877.0,1927.0,['zh'],57,'Ci (Chinese poetry) -- History and criticism',Text,'Ci (Chinese poetry) -- History and criticism'
+1388,PG24169,李太白集,"Li, Bai",701.0,762.0,['zh'],70,"'Chinese poetry -- Tang dynasty, 618-907'",Text,'Chinese poetry -- Tang dynasty
+1417,PG24316,花間集,"Zhao, Chongzuo, active 934-965",,,['zh'],54,"'Ci (Chinese poetry)', 'Chinese poetry -- Five dynasties and the Ten kingdoms, 907-979', 'Chinese poetry -- Tang dynasty, 618-907'",Text,'Ci (Chinese poetry)'
+1418,PG24316,花間集,"Zhao, Chongzuo, active 934-965",,,['zh'],54,"'Ci (Chinese poetry)', 'Chinese poetry -- Five dynasties and the Ten kingdoms, 907-979', 'Chinese poetry -- Tang dynasty, 618-907'",Text,'Chinese poetry -- Five dynasties and the Ten kingdoms
+1419,PG24316,花間集,"Zhao, Chongzuo, active 934-965",,,['zh'],54,"'Ci (Chinese poetry)', 'Chinese poetry -- Five dynasties and the Ten kingdoms, 907-979', 'Chinese poetry -- Tang dynasty, 618-907'",Text,'Chinese poetry -- Tang dynasty
+1458,PG24733,辛棄疾詞選,"Xin, Qiji",1140.0,1207.0,['zh'],42,"'Chinese poetry -- Song dynasty, 960-1279', 'Ci (Chinese poetry)'",Text,'Chinese poetry -- Song dynasty
+1459,PG24733,辛棄疾詞選,"Xin, Qiji",1140.0,1207.0,['zh'],42,"'Chinese poetry -- Song dynasty, 960-1279', 'Ci (Chinese poetry)'",Text,'Ci (Chinese poetry)'
+1497,PG25121,花外集,"Wang, Yisun",,,['zh'],28,"'Chinese poetry -- Song dynasty, 960-1279', 'Ci (Chinese poetry)'",Text,'Chinese poetry -- Song dynasty
+1498,PG25121,花外集,"Wang, Yisun",,,['zh'],28,"'Chinese poetry -- Song dynasty, 960-1279', 'Ci (Chinese poetry)'",Text,'Ci (Chinese poetry)'
+1500,PG25194,飲水詞集,"Nalan, Xingde",1655.0,1685.0,['zh'],43,"'Ci (Chinese poetry)', 'Chinese poetry -- Qing dynasty, 1644-1912'",Text,'Ci (Chinese poetry)'
+1501,PG25194,飲水詞集,"Nalan, Xingde",1655.0,1685.0,['zh'],43,"'Ci (Chinese poetry)', 'Chinese poetry -- Qing dynasty, 1644-1912'",Text,'Chinese poetry -- Qing dynasty
+1503,PG25218,六一詞,"Ouyang, Xiu",1007.0,1072.0,['zh'],47,'Ci (Chinese poetry)',Text,'Ci (Chinese poetry)'
+1504,PG25228,樂章集,"Liu, Yong, jin shi 1034",,,['zh'],57,'Ci (Chinese poetry)',Text,'Ci (Chinese poetry)'
+1507,PG25247,李義山詩集,"Li, Shangyin",813.0,858.0,['zh'],40,"'Chinese poetry -- Tang dynasty, 618-907'",Text,'Chinese poetry -- Tang dynasty
+1509,PG25289,滄浪詩話,"Yan, Yu, active 12th century",,,['zh'],33,'Chinese poetry -- History and criticism',Text,'Chinese poetry -- History and criticism'
+1513,PG25324,玉台新詠,,,,['zh'],70,"'Chinese poetry -- Qin and Han dynasties, 221 B.C.-220 A.D.', 'Chinese poetry -- 220-589'",Text,'Chinese poetry -- Qin and Han dynasties
+1514,PG25324,玉台新詠,,,,['zh'],70,"'Chinese poetry -- Qin and Han dynasties, 221 B.C.-220 A.D.', 'Chinese poetry -- 220-589'",Text,'Chinese poetry -- 220-589'
+1516,PG25352,長恨歌,"Bai, Juyi",772.0,846.0,['zh'],120,"'Yang, gui fei, 719-756 -- Poetry', 'Chinese poetry', 'Tang Xuanzong, Emperor of China, 685-762 -- Poetry'",Text,719-756 -- Poetry'
+1517,PG25352,長恨歌,"Bai, Juyi",772.0,846.0,['zh'],120,"'Yang, gui fei, 719-756 -- Poetry', 'Chinese poetry', 'Tang Xuanzong, Emperor of China, 685-762 -- Poetry'",Text,'Chinese poetry'
+1518,PG25352,長恨歌,"Bai, Juyi",772.0,846.0,['zh'],120,"'Yang, gui fei, 719-756 -- Poetry', 'Chinese poetry', 'Tang Xuanzong, Emperor of China, 685-762 -- Poetry'",Text,685-762 -- Poetry'
+1519,PG25367,漱玉詞,"Li, Qingzhao",1081.0,,['zh'],30,"'Chinese poetry -- Song dynasty, 960-1279', 'Ci (Chinese poetry) -- Women authors'",Text,'Chinese poetry -- Song dynasty
+1520,PG25367,漱玉詞,"Li, Qingzhao",1081.0,,['zh'],30,"'Chinese poetry -- Song dynasty, 960-1279', 'Ci (Chinese poetry) -- Women authors'",Text,'Ci (Chinese poetry) -- Women authors'
+1521,PG25391,甌北詩話,"Zhao, Yi",1727.0,1814.0,['zh'],62,'Chinese poetry -- History and criticism',Text,'Chinese poetry -- History and criticism'
+1522,PG25417,李賀詩選,"Li, He",790.0,816.0,['zh'],52,"'Chinese poetry -- Tang dynasty, 618-907'",Text,'Chinese poetry -- Tang dynasty
+1528,PG25460,詩品,"Zhong, Rong, active 502-519",,,['zh'],37,'Chinese poetry -- History and criticism',Text,'Chinese poetry -- History and criticism'
+1683,PG26873,龍川詞,"Chen, Liang",1143.0,1194.0,['zh'],48,'Ci (Chinese poetry)',Text,'Ci (Chinese poetry)'
+1695,PG27123,水調歌頭,"Su, Shi",1037.0,1101.0,['zh'],38,'Ci (Chinese poetry)',Text,'Ci (Chinese poetry)'
+1713,PG27204,滿江紅,"Yue, Fei",1103.0,1142.0,['zh'],45,'Chinese poetry',Text,'Chinese poetry'
+2773,PG43009,古詩十九首,"Xiao, Tong",501.0,531.0,['zh'],58,"'Chinese poetry -- Qin and Han dynasties, 221 B.C.-220 A.D.'",Text,'Chinese poetry -- Qin and Han dynasties
+3353,PG52206,隨園詩話,"Yuan, Mei",1716.0,1798.0,['zh'],1437,'Chinese poetry -- History and criticism',Text,'Chinese poetry -- History and criticism'
+3359,PG52275,孔雀東南飛,Unknown,,,['zh'],139,"'Chinese poetry -- Qin and Han dynasties, 221 B.C.-220 A.D.', 'Yue fu (Chinese poetry)'",Text,'Chinese poetry -- Qin and Han dynasties
+3360,PG52275,孔雀東南飛,Unknown,,,['zh'],139,"'Chinese poetry -- Qin and Han dynasties, 221 B.C.-220 A.D.', 'Yue fu (Chinese poetry)'",Text,'Yue fu (Chinese poetry)'
+3363,PG52323,唐诗三百首,,,,['zh'],180,"'Chinese poetry -- Tang dynasty, 618-907'",Text,'Chinese poetry -- Tang dynasty
+4672,PG7220,竹齋集,"Wang, Mian",1287.0,1359.0,['zh'],82,"'Chinese poetry -- Yuan dynasty, 1260-1368'",Text,'Chinese poetry -- Yuan dynasty
+4744,PG7342,詩品,"Zhong, Rong, active 502-519",,,['zh'],19,'Chinese poetry -- History and criticism',Text,'Chinese poetry -- History and criticism'
